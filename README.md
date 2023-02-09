@@ -1,5 +1,5 @@
 # JSON_DEPLOY
 \
 
-# render 
-https://json-bxvs.onrender.com
+# cyclic 
+https://repulsive-fez-pig.cyclic.app/
